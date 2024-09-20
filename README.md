@@ -21,3 +21,5 @@
 + **RefrigeratorAdapter** - An adapter for plugging a refrigerator into a standard power outlet. It adapts the Refrigerator to the PowerOutlet interface, translating plugIn() to startCooling().
 
 + **SmartphoneAdapter** - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().****
+
+https://github.com/PiaMacalanda/SoftEng1-Adapter-Pattern-Power-Outlet/blob/main/Lecture_Ass.%233_Macalanda%20-%20Page%201.png
